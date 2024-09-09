@@ -1,0 +1,5 @@
+isort>=5.13.2
+pydocstyle>=6.3.0
+pylint>=3.2.6
+pytest>=8.3.2
+yapf>=0.40.2
